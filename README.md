@@ -1,2 +1,2 @@
 # JetBrains
-I could make a bot in JetBrains Academy :D
+I could make a bot by following a course in JetBrains Academy :D
